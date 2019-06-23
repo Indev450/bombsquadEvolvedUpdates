@@ -3,5 +3,6 @@
               {"value":1.26, "scriptsChanged":["bs.py"]},
               {"value":1.27, "scriptsChanged":["bs.py", "bsSpaz.py"]},
               {"value":1.28, "scriptsChanged":["bs.py"]},
-              {"value":1.29, "scriptsChanged":["bsMap.py"]}]
+              {"value":1.29, "scriptsChanged":["bsMap.py"]},
+              {"value":1.30, "scriptsChanged":["bsMap.py"]}]
 }
