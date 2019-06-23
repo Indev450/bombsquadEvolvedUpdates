@@ -1,4 +1,4 @@
 {
   "versions":[{"value":1.25, "scriptsChanged":[]},
-              {"value":1.26, "scriptsChanged":'bs.py'}]
+              {"value":1.26, "scriptsChanged":"bs.py"}]
 }
