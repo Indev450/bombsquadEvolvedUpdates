@@ -1,4 +1,3 @@
 {
-  "version":"1.3",
-  "scripts edited":["bsSpaz.py", "bsUpdater.py"]
+  "versions":[{'value':1.25, 'scriptsChanged':[]}]
 }
